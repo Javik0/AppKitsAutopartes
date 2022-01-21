@@ -1,0 +1,13 @@
+C:\Users\Cristopher\source\repos\AppQuotes\bin\Debug\netcoreapp3.1\AppQuotes.exe
+C:\Users\Cristopher\source\repos\AppQuotes\bin\Debug\netcoreapp3.1\AppQuotes.deps.json
+C:\Users\Cristopher\source\repos\AppQuotes\bin\Debug\netcoreapp3.1\AppQuotes.runtimeconfig.json
+C:\Users\Cristopher\source\repos\AppQuotes\bin\Debug\netcoreapp3.1\AppQuotes.runtimeconfig.dev.json
+C:\Users\Cristopher\source\repos\AppQuotes\bin\Debug\netcoreapp3.1\AppQuotes.dll
+C:\Users\Cristopher\source\repos\AppQuotes\bin\Debug\netcoreapp3.1\AppQuotes.pdb
+C:\Users\Cristopher\source\repos\AppQuotes\obj\Debug\netcoreapp3.1\AppQuotes.csprojAssemblyReference.cache
+C:\Users\Cristopher\source\repos\AppQuotes\obj\Debug\netcoreapp3.1\AppQuotes.AssemblyInfoInputs.cache
+C:\Users\Cristopher\source\repos\AppQuotes\obj\Debug\netcoreapp3.1\AppQuotes.AssemblyInfo.cs
+C:\Users\Cristopher\source\repos\AppQuotes\obj\Debug\netcoreapp3.1\AppQuotes.csproj.CoreCompileInputs.cache
+C:\Users\Cristopher\source\repos\AppQuotes\obj\Debug\netcoreapp3.1\AppQuotes.dll
+C:\Users\Cristopher\source\repos\AppQuotes\obj\Debug\netcoreapp3.1\AppQuotes.pdb
+C:\Users\Cristopher\source\repos\AppQuotes\obj\Debug\netcoreapp3.1\AppQuotes.genruntimeconfig.cache
