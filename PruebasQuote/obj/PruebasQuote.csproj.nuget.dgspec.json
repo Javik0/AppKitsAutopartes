@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\PruebasQuote\\PruebasQuote.csproj": {}
+    "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\PruebasQuote\\PruebasQuote.csproj": {}
   },
   "projects": {
-    "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Controladores\\Controladores.csproj": {
+    "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Controladores\\Controladores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Controladores\\Controladores.csproj",
+        "projectUniqueName": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Controladores\\Controladores.csproj",
         "projectName": "Controladores",
-        "projectPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Controladores\\Controladores.csproj",
+        "projectPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Controladores\\Controladores.csproj",
         "packagesPath": "C:\\Users\\javiq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Controladores\\obj\\",
+        "outputPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Controladores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,14 +33,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Escenarios\\CargaDatos.csproj": {
-                "projectPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Escenarios\\CargaDatos.csproj"
+              "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Escenarios\\CargaDatos.csproj": {
+                "projectPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Escenarios\\CargaDatos.csproj"
               },
-              "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Modelos\\Modelos.csproj": {
-                "projectPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Modelos\\Modelos.csproj"
+              "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Modelos\\Modelos.csproj": {
+                "projectPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Modelos\\Modelos.csproj"
               },
-              "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Persistencia\\ModeloDB.csproj": {
-                "projectPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Persistencia\\ModeloDB.csproj"
+              "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Persistencia\\ModeloDB.csproj": {
+                "projectPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Persistencia\\ModeloDB.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Escenarios\\CargaDatos.csproj": {
+    "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Escenarios\\CargaDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Escenarios\\CargaDatos.csproj",
+        "projectUniqueName": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Escenarios\\CargaDatos.csproj",
         "projectName": "CargaDatos",
-        "projectPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Escenarios\\CargaDatos.csproj",
+        "projectPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Escenarios\\CargaDatos.csproj",
         "packagesPath": "C:\\Users\\javiq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Escenarios\\obj\\",
+        "outputPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Escenarios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -102,8 +102,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Modelos\\Modelos.csproj": {
-                "projectPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Modelos\\Modelos.csproj"
+              "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Modelos\\Modelos.csproj": {
+                "projectPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Modelos\\Modelos.csproj"
               }
             }
           }
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Modelos\\Modelos.csproj": {
+    "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Modelos\\Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Modelos\\Modelos.csproj",
+        "projectUniqueName": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Modelos\\Modelos.csproj",
         "projectName": "Modelos",
-        "projectPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Modelos\\Modelos.csproj",
+        "projectPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Modelos\\Modelos.csproj",
         "packagesPath": "C:\\Users\\javiq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Modelos\\obj\\",
+        "outputPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -195,14 +195,14 @@
         }
       }
     },
-    "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Persistencia\\ModeloDB.csproj": {
+    "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Persistencia\\ModeloDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Persistencia\\ModeloDB.csproj",
+        "projectUniqueName": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Persistencia\\ModeloDB.csproj",
         "projectName": "ModeloDB",
-        "projectPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Persistencia\\ModeloDB.csproj",
+        "projectPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Persistencia\\ModeloDB.csproj",
         "packagesPath": "C:\\Users\\javiq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Persistencia\\obj\\",
+        "outputPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -224,8 +224,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Modelos\\Modelos.csproj": {
-                "projectPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Modelos\\Modelos.csproj"
+              "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Modelos\\Modelos.csproj": {
+                "projectPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Modelos\\Modelos.csproj"
               }
             }
           }
@@ -286,14 +286,14 @@
         }
       }
     },
-    "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\PruebasQuote\\PruebasQuote.csproj": {
+    "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\PruebasQuote\\PruebasQuote.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\PruebasQuote\\PruebasQuote.csproj",
+        "projectUniqueName": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\PruebasQuote\\PruebasQuote.csproj",
         "projectName": "PruebasQuote",
-        "projectPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\PruebasQuote\\PruebasQuote.csproj",
+        "projectPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\PruebasQuote\\PruebasQuote.csproj",
         "packagesPath": "C:\\Users\\javiq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\PruebasQuote\\obj\\",
+        "outputPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\PruebasQuote\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -315,17 +315,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Controladores\\Controladores.csproj": {
-                "projectPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Controladores\\Controladores.csproj"
+              "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Controladores\\Controladores.csproj": {
+                "projectPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Controladores\\Controladores.csproj"
               },
-              "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Escenarios\\CargaDatos.csproj": {
-                "projectPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Escenarios\\CargaDatos.csproj"
+              "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Escenarios\\CargaDatos.csproj": {
+                "projectPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Escenarios\\CargaDatos.csproj"
               },
-              "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Modelos\\Modelos.csproj": {
-                "projectPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Modelos\\Modelos.csproj"
+              "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Modelos\\Modelos.csproj": {
+                "projectPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Modelos\\Modelos.csproj"
               },
-              "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Persistencia\\ModeloDB.csproj": {
-                "projectPath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Persistencia\\ModeloDB.csproj"
+              "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Persistencia\\ModeloDB.csproj": {
+                "projectPath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Persistencia\\ModeloDB.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KVwYl6qYVP4PfAm4paJxmOBmZjmmWPPPGSpZcZ0rsECsC/ViDVZxXPx05mA2jRBdjerz4I5i9r8NKVWitm+eYw==",
+  "dgSpecHash": "9MD+M/5R5dYqHZuWk7rqdAFhU9ElVdQsEKz65WDCxTJfqIlR5zj65DOVj+fbetAP+jlfTZkm99BpgZwkardbpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Controladores\\Controladores.csproj",
+  "projectFilePath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Controladores\\Controladores.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\javiq\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

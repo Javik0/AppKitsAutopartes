@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UL5lxKTwM1fudNMU8E32nHVLMPSiUeys1OMX3l0GFKDo9+8PusvumhXcu9Oe4+U8ghfCt1TBcPucnoAVkBG58Q==",
+  "dgSpecHash": "YHq28N+l6lvuB7v1aBcKlpBm4GxhyAqIpGonURcZ308Unfh7YST02cWSd0XvbjaO3uypolGYlU/zJresWSQnSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\PruebasQuote\\PruebasQuote.csproj",
+  "projectFilePath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\PruebasQuote\\PruebasQuote.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\javiq\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\javiq\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

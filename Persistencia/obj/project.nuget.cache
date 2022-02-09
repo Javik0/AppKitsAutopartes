@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RKGw2wr3/yunlOElXSgSTuU5zWfcrHAPyO9ex4LqF6ghgTYoyQazLEjCom98xVqTjXz2bgcvTilE1ADl6j981w==",
+  "dgSpecHash": "o7X7IOMDSlmYFwBEQFUrtCxwt8yXoniq9Ha1aJcGWZ9HjPyGj5LsjODrN/z5blRVPqgYTwO0CGYJl5eKnseKaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\Persistencia\\ModeloDB.csproj",
+  "projectFilePath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\Persistencia\\ModeloDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\javiq\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\javiq\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

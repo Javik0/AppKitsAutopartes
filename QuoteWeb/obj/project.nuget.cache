@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+LUzOsYOOt5uJhrRtFmPCHMyOJcS5D2fkiqmJ9nfSwjhkrgnJP/bX6exuc5xG7QzbVzQBgbTB7KxHFQuugBBpA==",
+  "dgSpecHash": "BaKLlm23+HUREgiG6ll8+oAu6rhgDmDbItVpWKLN25U7BHVH1gV5za8gQisLMJ/j6C2qB4L1VARMbrEBTFs5rA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\javiq\\source\\repos\\AppKitsAutopartesDVL\\QuoteWeb\\QuoteWeb.csproj",
+  "projectFilePath": "C:\\Users\\javiq\\Source\\Repos\\AppKitsAutopartesOk\\QuoteWeb\\QuoteWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\javiq\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\javiq\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
